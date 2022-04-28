@@ -10,4 +10,4 @@ _Description_
 - All links on the page smoothly become a little transparent when you hover the mouse.
 - In some blocks we used CSS Grid Layout.
 
-Please, follow the link:
+Please, follow the link: https://aleksaier.github.io/russian-travel/
