@@ -1,11 +1,6 @@
 .place__website {
   align-self: end;
   text-decoration: none;
-  transition: opacity 1s ease-in-out;
-}
-
-.place__website:hover {
-  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {

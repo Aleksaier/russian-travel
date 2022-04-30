@@ -5,4 +5,10 @@
   font-weight: 400;
   text-decoration-line: underline;
   margin: 0;
+  transition: opacity 1s ease-in-out;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+}
+
